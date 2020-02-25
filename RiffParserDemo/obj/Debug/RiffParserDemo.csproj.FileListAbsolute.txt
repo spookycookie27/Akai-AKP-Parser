@@ -1,0 +1,8 @@
+C:\Users\spcoo_n2ebtla\Downloads\RiffParserDemo COnsole\RiffParserDemo\bin\Debug\RiffParserDemo.exe
+C:\Users\spcoo_n2ebtla\Downloads\RiffParserDemo COnsole\RiffParserDemo\bin\Debug\RiffParserDemo.pdb
+C:\Users\spcoo_n2ebtla\Downloads\RiffParserDemo COnsole\RiffParserDemo\obj\Debug\RiffParserDemo.csprojAssemblyReference.cache
+C:\Users\spcoo_n2ebtla\Downloads\RiffParserDemo COnsole\RiffParserDemo\obj\Debug\RiffParserDemo.exe
+C:\Users\spcoo_n2ebtla\Downloads\RiffParserDemo COnsole\RiffParserDemo\obj\Debug\RiffParserDemo.pdb
+C:\Users\spcoo_n2ebtla\Downloads\RiffParserDemo COnsole\RiffParserDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\spcoo_n2ebtla\Downloads\RiffParserDemo COnsole\RiffParserDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\spcoo_n2ebtla\Downloads\RiffParserDemo COnsole\RiffParserDemo\obj\Debug\RiffParserDemo.csproj.CopyComplete
